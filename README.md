@@ -40,7 +40,7 @@ A web-based CRUD application for managing student subject enrollments. Built wit
    $pass = "";
    $db   = "enrollment_db";
    ```
-5. Open `http://localhost/parcon_subject_enrollment/` (use your project folder's name)
+5. Open `http://localhost/parcon_subject_enrollment/` 
 
 ## Live site
 
